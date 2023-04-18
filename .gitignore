@@ -131,3 +131,5 @@ dmypy.json
 # Files
 *-ubyte
 *.gz
+twitter_airline/database.sqlite
+twitter_airline/Tweets.csv
